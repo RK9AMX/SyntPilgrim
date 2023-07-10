@@ -7,3 +7,5 @@
 Обсуждение на [форуме](http://www.cqham.ru/forum/showthread.php?45278-%D1%E8%ED%F2%E5%E7%E0%F2%EE%F0-%ED%E0-Si5351%C0-%E4%EB%FF-%D2%CF%CF) cqham.ru
 
 Синтезатор выполнен на базе микросхемы Si5351 и микроконтроллера PIC16F1787 (PIC16F887), индикатор LCD 16x2.
+
+![PCB](https://github.com/RK9AMX/SyntPilgrim/blob/main/PCB.png)
