@@ -8,4 +8,8 @@
 
 Синтезатор выполнен на базе микросхемы Si5351 и микроконтроллера PIC16F1787 (PIC16F887), индикатор LCD 16x2.
 
+Файл прошивки для PIC16F887 - 5351_PIC16F887_v07.hex
+
+Для PIC16F1787 - 5351_PIC16F1787_v07X.hex. С делителем на 8 для валкодера 5351_PIC16F1787_v08X_vlc div 8.hex
+
 ![PCB](https://github.com/RK9AMX/SyntPilgrim/blob/main/PCB.png)
